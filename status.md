@@ -6,10 +6,9 @@ permalink: /status.html
 
 # Build Status
 
-Here you can see the current build status of the projects of the optimization benchmarking tool chain.
+Here you can see the current build status of the projects of the optimization benchmarking tool chain. Most of these projects (all except <a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a>) are built with the utility script given in <a href="https://github.com/optimizationBenchmarking/utils-build">utils-build</a>.
 
 <table border="1">
-<tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-build">utils-build</a></th><td>no builds</td><td /><td /><td /><td /></tr>
 
 <tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-base/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-base/master.svg" height="20"/></a></td>
