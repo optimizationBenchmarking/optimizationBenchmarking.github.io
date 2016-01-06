@@ -10,7 +10,7 @@ Here you can see the current build status of the projects of the optimization be
 
 <table border="1">
 
-<tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-build">utils-build</a></th><td colspan="5" style="text-align:left">(no automatic builds, used by most other projects)</td></tr>
+<tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-build">utils-build</a></th><td>no builds</td><td /><td /><td /><td /></tr>
 
 <tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-base/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-base/master.svg" height="20"/></a></td>
