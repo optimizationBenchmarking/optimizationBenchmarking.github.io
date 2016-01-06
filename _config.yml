@@ -1,0 +1,6 @@
+name: Optimization Benchmarking
+markdown: redcarpet
+baseurl: /
+include: [.url]
+authorName: Thomas Weise
+authorEmail: tweise@ustc.edu.cn
