@@ -9,7 +9,6 @@ permalink: /status.html
 Here you can see the current build status of the projects of the optimization benchmarking tool chain.
 
 <table border="1">
-
 <tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-build">utils-build</a></th><td>no builds</td><td /><td /><td /><td /></tr>
 
 <tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a></th>
