@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Build Status
-permalink: /status
+permalink: /status.html
 ---
 
 # Build Status
