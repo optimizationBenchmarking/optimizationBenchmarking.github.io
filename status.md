@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Build Status
-permalink: /status.html
+permalink: /status
 ---
 
 # Build Status
@@ -74,4 +74,17 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-math"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-math.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-math/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-math/status.png" height="20"/></a></td>
 <td /></tr>
+
+<tr>th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-ml">utils-ml</a></td>
+<td><a href="https://travis-ci.org/optimizationBenchmarking/utils-ml/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-ml/master.svg" height="20"/></a></td>
+<td><a href="https://codeship.com/projects/0bf84bc0-972f-0133-eaba-0ac91e08390f/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/0bf84bc0-972f-0133-eaba-0ac91e08390f.svg" height="20"/></a></td>
+<td><a href="https://circleci.com/gh/optimizationBenchmarking/utils-ml"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/utils-ml.svg" height="20"/></a></td>
+<td><a href="https://semaphoreci.com/thomasweise/utils-ml"><img alt="Semaphore Build Status" src="https://semaphoreci.com/api/v1/projects/38804fc9-fbc9-4d14-bfec-da9455b34563/652888/shields_badge.svg" height="20"/></a></td>
+<td><a href="https://snap-ci.com/optimizationBenchmarking/utils-ml/branch/master"><img alt="Snap CI Build Status" src="https://img.shields.io/snap-ci/optimizationBenchmarking/utils-ml/master.svg" height="20"/></a></td>
+</tr><tr><td />
+<td><a href="https://app.wercker.com/#applications/568dfc8a41034d154e0a2486"><img alt="Wercker Build Status" src="https://img.shields.io/wercker/ci/568dfc8a41034d154e0a2486.svg" height="20"/></a></td>
+<td><a href="https://app.shippable.com/projects/568df9991895ca447467b857"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/568df9991895ca447467b857.svg" height="20"/></a></td>
+<td><a href="https://ci.appveyor.com/project/thomasWeise/utils-ml"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-ml.svg" height="20"/></a></td>
+<td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-ml/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-ml/status.png" height="20"/></a></td>
+</tr>
 </table>
