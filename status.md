@@ -75,7 +75,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-math/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-math/status.png" height="20"/></a></td>
 <td /></tr>
 
-<tr>th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-ml">utils-ml</a></td>
+<tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/utils-ml">utils-ml</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-ml/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-ml/master.svg" height="20"/></a></td>
 <td><a href="https://codeship.com/projects/0bf84bc0-972f-0133-eaba-0ac91e08390f/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/0bf84bc0-972f-0133-eaba-0ac91e08390f.svg" height="20"/></a></td>
 <td><a href="https://circleci.com/gh/optimizationBenchmarking/utils-ml"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/utils-ml.svg" height="20"/></a></td>
