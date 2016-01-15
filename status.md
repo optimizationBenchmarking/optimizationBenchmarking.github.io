@@ -112,7 +112,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.wercker.com/#applications/56996b963e708cf42301dfcf"><img alt="Wercker Build Status" src="https://img.shields.io/wercker/ci/56996b963e708cf42301dfcf.svg" height="20"/></a></td>
 <td><a href="https://app.shippable.com/projects/5699692b1895ca44746ff799"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/5699692b1895ca44746ff799.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-attributes"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-attributes.svg" height="20"/></a></td>
-<td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/status.png" height="20"/>]</a></td>
+<td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/status.png" height="20"/></a></td>
 <td /></tr>
 
 </table>
