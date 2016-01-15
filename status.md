@@ -86,7 +86,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/568df9991895ca447467b857"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/568df9991895ca447467b857.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-ml"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-ml.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-ml/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-ml/status.png" height="20"/></a></td>
-</tr>
+<td /></tr>
 
 <tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/evaluator-base">evaluator-base</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-base/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-base/master.svg" height="20"/></a></td>
@@ -99,6 +99,20 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/56981e821895ca4474685412"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/56981e821895ca4474685412.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-base"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-base.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-base/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-base/status.png" height="20"/></a></td>
-</tr>
+<td /></tr>
+
+
+<tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/evaluator-attributes">evaluator-attributes</a></th>
+<td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-attributes/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-attributes/master.svg" height="20"/></a></td>
+<td><a href="https://codeship.com/projects/d2cb5d80-9dff-0133-5815-1a74f7994c2d/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/d2cb5d80-9dff-0133-5815-1a74f7994c2d.svg" height="20"/></a></td>
+<td><a href="https://circleci.com/gh/optimizationBenchmarking/evaluator-attributes"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/evaluator-attributes.svg" height="20"/></a></td>
+<td><a href="https://semaphoreci.com/thomasweise/evaluator-attributes"><img alt="Semaphore Build Status" src="https://semaphoreci.com/api/v1/projects/ee77745a-4eaf-4143-8a39-10130e1d8bb6/663306/shields_badge.svg" height="20"/></a></td>
+<td><a href="https://snap-ci.com/optimizationBenchmarking/evaluator-attributes/branch/master"><img alt="Snap CI Build Status" src="https://img.shields.io/snap-ci/optimizationBenchmarking/evaluator-attributes/master.svg" height="20"/></a></td>
+</tr><tr><td />
+<td><a href="https://app.wercker.com/#applications/56996b963e708cf42301dfcf"><img alt="Wercker Build Status" src="https://img.shields.io/wercker/ci/56996b963e708cf42301dfcf.svg" height="20"/></a></td>
+<td><a href="https://app.shippable.com/projects/5699692b1895ca44746ff799"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/5699692b1895ca44746ff799.svg" height="20"/></a></td>
+<td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-attributes"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-attributes.svg" height="20"/></a></td>
+<td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/status.png" height="20"/>]</a></td>
+<td /></tr>
 
 </table>
