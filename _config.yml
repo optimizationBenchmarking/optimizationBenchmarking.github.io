@@ -1,5 +1,4 @@
 name: Optimization Benchmarking
-markdown: redcarpet
 baseurl: https://optimizationbenchmarking.github.io
 include: [.url]
 authorName: Thomas Weise
