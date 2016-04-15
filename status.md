@@ -132,7 +132,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-evaluator/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-evaluator/master.svg" height="20"/></a></td>
 <td><a href="https://codeship.com/projects/543982f0-e4fb-0133-9457-6a2823a81008/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/543982f0-e4fb-0133-9457-6a2823a81008.svg" height="20"/></a></td>
 <td><a href="https://circleci.com/gh/optimizationBenchmarking/evaluator-evaluator"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/evaluator-evaluator.svg" height="20"/></a></td>
-<td><a href="https://semaphoreci.com/thomasweise/evaluator-evaluator"><img alt="Semaphore Build Status" src="https://semaphoreci.com/api/v1/thomasweise/evaluator-evaluator/branches/master/shields_badge.svg.svg" height="20"/></a></td>
+<td><a href="https://semaphoreci.com/thomasweise/evaluator-evaluator"><img alt="Semaphore Build Status" src="https://semaphoreci.com/api/v1/thomasweise/evaluator-evaluator/branches/master/shields_badge.svg" height="20"/></a></td>
 <td><a href="https://snap-ci.com/optimizationBenchmarking/evaluator-evaluator/branch/master"><img alt="Snap CI Build Status" src="https://img.shields.io/snap-ci/optimizationBenchmarking/evaluator-evaluator/master.svg" height="20"/></a></td>
 </tr><tr><td />
 <td><a href="https://app.wercker.com/#applications/5710814eae7ab0154f011d6d"><img alt="Wercker Build Status" src="https://img.shields.io/wercker/ci/5710814eae7ab0154f011d6d.svg" height="20"/></a></td>
