@@ -154,13 +154,13 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-gui/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-gui/status.png" height="20"/></a></td>
 <td /></tr>
 
-<tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/documentation-examples-loader">documentation-examples-loader</a></th>
+<tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/documentation-examples-loader">documentation-examples-loader</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/documentation-examples-loader/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/documentation-examples-loader/master.svg" height="20"/></a></td>
 <td><a href="https://codeship.com/projects/7fa56ee0-f0d8-0133-b08b-2640b49afa9e/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/7fa56ee0-f0d8-0133-b08b-2640b49afa9e.svg" height="20"/></a></td>
 <td><a href="https://circleci.com/gh/optimizationBenchmarking/documentation-examples-loader"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/documentation-examples-loader.svg" height="20"/></a></td>
 <td><a href="https://semaphoreci.com/thomasweise/documentation-examples-loader"><img alt="Semaphore Build Status" src="https://semaphoreci.com/api/v1/thomasweise/documentation-examples-loader/branches/master/shields_badge.svg" height="20"/></a></td>
 <td><a href="https://snap-ci.com/optimizationBenchmarking/documentation-examples-loader/branch/master"><img alt="Snap CI Build Status" src="https://img.shields.io/snap-ci/optimizationBenchmarking/documentation-examples-loader/master.svg" height="20"/></a></td>
-</tr><tr><td />
+</tr><tr>
 <td><a href="https://app.wercker.com/#applications/572469167ed0b05537068c61"><img alt="Wercker Build Status" src="https://img.shields.io/wercker/ci/572469167ed0b05537068c61.svg" height="20"/></a></td>
 <td><a href="https://app.shippable.com/projects/572468a32a8192902e1e852f"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/572468a32a8192902e1e852f.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/documentation-examples-loader"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/documentation-examples-loader.svg" height="20"/></a></td>
