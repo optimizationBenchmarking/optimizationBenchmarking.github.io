@@ -141,6 +141,19 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-evaluator/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-evaluator/status.png" height="20"/></a></td>
 <td /></tr>
 
+<tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/evaluator-gui">evaluator-gui</a></th>
+<td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-gui/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-gui/master.svg" height="20"/></a></td>
+<td><a href="https://codeship.com/projects/61dfca30-f0d8-0133-c801-0a35cfc55b3a/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/61dfca30-f0d8-0133-c801-0a35cfc55b3a.svg" height="20"/></a></td>
+<td><a href="https://circleci.com/gh/optimizationBenchmarking/evaluator-gui"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/evaluator-gui.svg" height="20"/></a></td>
+<td><a href="https://semaphoreci.com/thomasweise/evaluator-gui"><img alt="Semaphore Build Status" src="https://semaphoreci.com/api/v1/thomasweise/evaluator-gui/branches/master/shields_badge.svg" height="20"/></a></td>
+<td><a href="https://snap-ci.com/optimizationBenchmarking/evaluator-gui/branch/master"><img alt="Snap CI Build Status" src="https://img.shields.io/snap-ci/optimizationBenchmarking/evaluator-gui/master.svg" height="20"/></a></td>
+</tr><tr><td />
+<td><a href="https://app.wercker.com/#applications/5725384c5b2d07942203b022"><img alt="Wercker Build Status" src="https://img.shields.io/wercker/ci/5725384c5b2d07942203b022.svg" height="20"/></a></td>
+<td><a href="https://app.shippable.com/projects/572468a32a8192902e1e8530"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/572468a32a8192902e1e8530.svg" height="20"/></a></td>
+<td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-gui"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-gui.svg" height="20"/></a></td>
+<td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-gui/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-gui/status.png" height="20"/></a></td>
+<td /></tr>
+
 <tr><th style="text-align:left"><a href="https://github.com/optimizationBenchmarking/documentation-examples-loader">documentation-examples-loader</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/documentation-examples-loader/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/documentation-examples-loader/master.svg" height="20"/></a></td>
 <td><a href="https://codeship.com/projects/7fa56ee0-f0d8-0133-b08b-2640b49afa9e/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/7fa56ee0-f0d8-0133-b08b-2640b49afa9e.svg" height="20"/></a></td>
