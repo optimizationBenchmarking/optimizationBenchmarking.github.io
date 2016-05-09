@@ -8,6 +8,8 @@ permalink: /status.html
 
 Here you can see the current build status of the projects of the optimization benchmarking tool chain. Most of these projects (all except <a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a>) are built with the utility script given in <a href="https://github.com/optimizationBenchmarking/utils-build">utils-build</a>.
 
+## Software
+
 <table border="1">
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a></th>
@@ -166,5 +168,15 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://ci.appveyor.com/project/thomasWeise/documentation-examples-loader"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/documentation-examples-loader.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/documentation-examples-loader/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/documentation-examples-loader/status.png" height="20"/></a></td>
 <td /></tr>
+</table>
+
+
+## Documentation
+
+<table border="1">
+
+<tr><th style="text-align:left;vertical-align:top"><a href="https://github.com/optimizationBenchmarking/documentation-intro">documentation-intro-base</a></th>
+<td><a href="https://circleci.com/gh/optimizationBenchmarking/documentation-intro-base"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/documentation-intro-base.svg" height="20"/></a></td>
+<td><a href="https://circleci.com/api/v1/project/optimizationBenchmarking/documentation-intro-slides/latest/artifacts/0/$CIRCLE_ARTIFACTS/intro-slides.pdf?branch=master">PDF</a></td></tr>
 
 </table>
