@@ -1,11 +1,18 @@
 ---
-layout: main
+layout: default
 title: Optimization Benchmarking
 permalink: /
 ---
 
 # Introduction
 This is the main website of the *optimizationBenchmarking.org* framework, a `Java 1.7` software designed to make the evaluation, benchmarking, and comparison of [optimization](http://en.wikipedia.org/wiki/Mathematical_optimization) or [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning) algorithms easier. This software  can load log files created by (experiments with) an optimization or Machine Learning algorithm implementation, evaluate how the implementation has progressed over time, and compare its performance to other algorithms (or implementations) -- over several different benchmark cases. It can create reports in [LaTeX](http://en.wikipedia.org/wiki/LaTeX) (ready for publication) or [XHTML](http://en.wikipedia.org/wiki/XHTML) formats or export its findings in text files which may later be loaded by other applications.
+
+## Posts
+<ul class="posts">
+{% for post in site.posts %}
+<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
 
 ## Workflow
 The *optimizationBenchmarking.org* framework prescribes the following work flow, which is discussed
