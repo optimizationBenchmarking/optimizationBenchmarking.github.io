@@ -8,9 +8,7 @@ permalink: /status.html
 
 Here you can see the current build status of the projects of the optimization benchmarking tool chain. Most of these projects (all except <a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a>) are built with the utility script given in <a href="https://github.com/optimizationBenchmarking/utils-build">utils-build</a>.
 
-## Software
-
-Here we list the build status of the software components. 
+<h2>Software</h2> 
 
 <table border="1">
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a></th>
@@ -172,9 +170,7 @@ Here we list the build status of the software components.
 </table>
 
 
-## Documentation
-
-Here you can find the build status of the documentation elements.
+<h2>Documentation</h2>
 
 <table border="1">
 
