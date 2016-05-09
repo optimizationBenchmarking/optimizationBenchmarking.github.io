@@ -10,8 +10,9 @@ Here you can see the current build status of the projects of the optimization be
 
 ## Software
 
-<table border="1">
+Here we list the build status of the software components. 
 
+<table border="1">
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-base">utils-base</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-base/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-base/master.svg" height="20"/></a></td>
 <td><a href="https://codeship.com/projects/131027e0-8ab8-0133-0904-7246c649b408/status?branch=master"><img alt="Codeship Build Status" src="https://img.shields.io/codeship/131027e0-8ab8-0133-0904-7246c649b408.svg" height="20"/></a></td>
@@ -173,10 +174,12 @@ Here you can see the current build status of the projects of the optimization be
 
 ## Documentation
 
+Here you can find the build status of the documentation elements.
+
 <table border="1">
 
 <tr><th style="text-align:left;vertical-align:top"><a href="https://github.com/optimizationBenchmarking/documentation-intro">documentation-intro-base</a></th>
-<td><a href="https://circleci.com/gh/optimizationBenchmarking/documentation-intro-base"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/documentation-intro-base.svg" height="20"/></a></td>
+<td><a href="https://circleci.com/gh/optimizationBenchmarking/documentation-intro-base"><img alt="CircleCI Build Status" src="https://img.shields.io/circleci/project/optimizationBenchmarking/documentation-intro-slides.svg" height="20"/></a></td>
 <td><a href="https://circleci.com/api/v1/project/optimizationBenchmarking/documentation-intro-slides/latest/artifacts/0/$CIRCLE_ARTIFACTS/intro-slides.pdf?branch=master">PDF</a></td></tr>
 
 </table>
