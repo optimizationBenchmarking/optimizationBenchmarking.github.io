@@ -22,7 +22,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/567a0f771895ca447466cf07"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/567a0f771895ca447466cf07.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-base"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-base.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-base/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-base/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-graphics">utils-graphics</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-graphics/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-graphics/master.svg" height="20"/></a></td>
@@ -35,7 +35,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/567cde0f1895ca447466ea67"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/567cde0f1895ca447466ea67.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-graphics"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-graphics.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-graphics/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-graphics/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-charts">utils-charts</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-charts/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-charts/master.svg" height="20"/></a></td>
@@ -48,7 +48,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/568717d61895ca44746737b4"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/568717d61895ca44746737b4.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-charts"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-charts.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-charts/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-charts/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-documents">utils-documents</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-documents/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-documents/master.svg" height="20"/></a></td>
@@ -61,7 +61,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/568b67c31895ca4474675798"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/568b67c31895ca4474675798.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-documents"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-documents.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-documents/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-documents/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-math">utils-math</a></td>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-math/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-math/master.svg" height="20"/></a></td>
@@ -74,7 +74,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/568ba7061895ca4474675a6b"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/568ba7061895ca4474675a6b.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-math"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-math.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-math/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-math/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/utils-ml">utils-ml</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/utils-ml/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/utils-ml/master.svg" height="20"/></a></td>
@@ -87,7 +87,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/568df9991895ca447467b857"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/568df9991895ca447467b857.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/utils-ml"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/utils-ml.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/utils-ml/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/utils-ml/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/evaluator-base">evaluator-base</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-base/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-base/master.svg" height="20"/></a></td>
@@ -100,7 +100,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/56981e821895ca4474685412"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/56981e821895ca4474685412.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-base"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-base.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-base/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-base/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/evaluator-attributes">evaluator-attributes</a></th>
@@ -114,7 +114,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/5699692b1895ca44746ff799"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/5699692b1895ca44746ff799.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-attributes"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-attributes.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-attributes/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/evaluator-modules">evaluator-modules</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-modules/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-modules/master.svg" height="20"/></a></td>
@@ -127,7 +127,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/56ea17649d043da07be0a954"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/56ea17649d043da07be0a954.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-modules"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-modules.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-modules/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-modules/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/evaluator-evaluator">evaluator-evaluator</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-evaluator/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-evaluator/master.svg" height="20"/></a></td>
@@ -140,7 +140,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/5710800a2a8192902e1c1edf"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/5710800a2a8192902e1c1edf.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-evaluator"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-evaluator.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-evaluator/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-evaluator/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/evaluator-gui">evaluator-gui</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/evaluator-gui/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/evaluator-gui/master.svg" height="20"/></a></td>
@@ -153,7 +153,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/572468a32a8192902e1e8530"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/572468a32a8192902e1e8530.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/evaluator-gui"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/evaluator-gui.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/evaluator-gui/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/evaluator-gui/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 
 <tr><th style="text-align:left;vertical-align:top" rowspan="2"><a href="https://github.com/optimizationBenchmarking/documentation-examples-loader">documentation-examples-loader</a></th>
 <td><a href="https://travis-ci.org/optimizationBenchmarking/documentation-examples-loader/"><img alt="Travis CI Build Status" src="https://img.shields.io/travis/optimizationBenchmarking/documentation-examples-loader/master.svg" height="20"/></a></td>
@@ -166,7 +166,7 @@ Here you can see the current build status of the projects of the optimization be
 <td><a href="https://app.shippable.com/projects/572468a32a8192902e1e852f"><img alt="Shippable Build Status" src="https://img.shields.io/shippable/572468a32a8192902e1e852f.svg" height="20"/></a></td>
 <td><a href="https://ci.appveyor.com/project/thomasWeise/documentation-examples-loader"><img alt="AppVeyor Build Status" src="https://img.shields.io/appveyor/ci/thomasWeise/documentation-examples-loader.svg" height="20"/></a></td>
 <td><a href="https://drone.io/github.com/optimizationBenchmarking/documentation-examples-loader/latest"><img alt="Drone IO Build Status" src="https://drone.io/github.com/optimizationBenchmarking/documentation-examples-loader/status.png" height="20"/></a></td>
-<td /></tr>
+<td></td></tr>
 </table>
 
 
