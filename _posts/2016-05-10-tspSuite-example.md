@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TSP Suite Example"
+title:  "TSP Suite Example: The Traveling Salesman Problem"
 date:   2016-05-10
 categories: page
 ---
