@@ -16,7 +16,7 @@ This is the main website of the *optimizationBenchmarking.org* framework, a `Jav
 
 ## Workflow
 The *optimizationBenchmarking.org* framework prescribes the following work flow, which is discussed
-in more detail in [this set of slides]({{ site.data.documentation.evaluatorSlidesURL }}):
+in more detail in [this set of slides](https://circleci.com/api/v1/project/optimizationBenchmarking/documentation-intro-slides/latest/artifacts/0/$CIRCLE_ARTIFACTS/intro-slides.pdf?branch=master):
 
 1. *Algorithm Implementation:* You implement your algorithm. Do it in a way so that you can generate log files containing rows such as (`passed runtime`, `best solution quality so far`) for each run (execution) of your algorithm.
 2. *Choose Benchmark Instances:* Choose a set of (well-known) problem instances to apply your algorithm to.
