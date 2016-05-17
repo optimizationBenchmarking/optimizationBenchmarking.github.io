@@ -45,17 +45,15 @@ For [`R`](https://www.r-project.org/) we automatically pre-install libraries whi
 
 Under Linux, you may copy the following text to the command line (it may ask you for your `sudo` password a few times for installing these packages, given that you have `R` already installed:
 
-<pre>
-R_params="repos=c(\"http://cran.us.r-project.org\", \"http://cran.uk.r-project.org\",  \"http://mirrors.ustc.edu.cn/CRAN\", \"http://cran.wu.ac.at/\", \"http://cran.utstat.utoronto.ca/\", \"http://cran.rstudio.com/\", \"https://cran.uni-muenster.de/\", \"http://ftp.iitm.ac.in/cran/\" ), dependencies=TRUE, clean=TRUE" &amp;&amp;\<br/>
-sudo Rscript -e "update.packages(ask=FALSE, ${R_params})" &amp;&amp;\<br/>
-sudo Rscript -e "if(!(require(\"apcluster\"))) install.packages(\"apcluster\", ${R_params})" &amp;&amp;\<br/>
-sudo Rscript -e "if(!(require(\"cluster\"))) install.packages(\"cluster\", ${R_params})" &amp;&amp;\<br/>
-sudo Rscript -e "if(!(require(\"fpc\"))) install.packages(\"fpc\", ${R_params})" &amp;&amp;\<br/>
-sudo Rscript -e "if(!(require(\"mclust\"))) install.packages(\"mclust\", ${R_params})" &amp;&amp;\<br/>
-sudo Rscript -e "if(!(require(\"NbClust\"))) install.packages(\"NbClust\", ${R_params})" &amp;&amp;\<br/>
-sudo Rscript -e "if(!(require(\"stats\"))) install.packages(\"stats\", ${R_params})" &amp;&amp;\<br/>
-sudo Rscript -e "if(!(require(\"vegan\"))) install.packages(\"vegan\", ${R_params})"
-</pre>
+    R_params="repos=c(\"http://cran.us.r-project.org\", \"http://cran.uk.r-project.org\",  \"http://mirrors.ustc.edu.cn/CRAN\", \"http://cran.wu.ac.at/\", \"http://cran.utstat.utoronto.ca/\", \"http://cran.rstudio.com/\", \"https://cran.uni-muenster.de/\", \"http://ftp.iitm.ac.in/cran/\" ), dependencies=TRUE, clean=TRUE" &&\
+    sudo Rscript -e "update.packages(ask=FALSE, ${R_params})" &&\
+    sudo Rscript -e "if(!(require(\"apcluster\"))) install.packages(\"apcluster\", ${R_params})" &&\
+    sudo Rscript -e "if(!(require(\"cluster\"))) install.packages(\"cluster\", ${R_params})" &&\
+    sudo Rscript -e "if(!(require(\"fpc\"))) install.packages(\"fpc\", ${R_params})" &&\
+    sudo Rscript -e "if(!(require(\"mclust\"))) install.packages(\"mclust\", ${R_params})" &&\
+    sudo Rscript -e "if(!(require(\"NbClust\"))) install.packages(\"NbClust\", ${R_params})" &&\
+    sudo Rscript -e "if(!(require(\"stats\"))) install.packages(\"stats\", ${R_params})" &&\
+    sudo Rscript -e "if(!(require(\"vegan\"))) install.packages(\"vegan\", ${R_params})"
 
 <h2 id="docker">Dockerized Version: Only Install Docker, Nothing Else!</h2>
 
