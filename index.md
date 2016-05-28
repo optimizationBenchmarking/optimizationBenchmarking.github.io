@@ -7,6 +7,16 @@ permalink: /
 # Introduction
 This is the main website of the *optimizationBenchmarking.org* framework, a `Java 1.7` software designed to make the evaluation, benchmarking, and comparison of [optimization](http://en.wikipedia.org/wiki/Mathematical_optimization) or [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning) algorithms easier. This software  can load log files created by (experiments with) an optimization or Machine Learning algorithm implementation, evaluate how the implementation has progressed over time, and compare its performance to other algorithms (or implementations) -- over several different benchmark cases. It can create reports in [LaTeX](http://en.wikipedia.org/wiki/LaTeX) (ready for publication) or [XHTML](http://en.wikipedia.org/wiki/XHTML) formats or export its findings in text files which may later be loaded by other applications. A short set of introduction slides about this project can be found <a href="{{ site.baseurl }}/introSlides.html">here</a>.
 
+## Quick Start
+
+If you want to directly run our software and see the examples, perform the following steps:
+
+1. Install [Docker](http://www.docker.com) following the instructions for [Linux](https://docs.docker.com/linux/step_one/), [Windows](https://docs.docker.com/windows/step_one/), or [MacOS](https://docs.docker.com/mac/step_one/).
+2. Open a console.
+3. Type in `docker run -t -i -p 9999:8080/tcp optimizationbenchmarking/evaluator-gui` and hit return. This downloads and runs our software &mdash; which may take some time (but only the first time you do it). 
+4. Browse to [http://localhost:9999](http://localhost:9999).
+5. Enjoy the web-based GUI of our software, which looks quite similar to this web site.
+
 ## Posts
 <ul class="posts">
 {% for post in site.posts %}
