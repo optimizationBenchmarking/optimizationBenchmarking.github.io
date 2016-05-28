@@ -10,7 +10,7 @@ This is the main website of the *optimizationBenchmarking.org* framework, a `Jav
 ## Quick Start
 If you want to directly run our software and see the examples, perform the following steps:
 <ol>
-<li>Install <a href="http://www.docker.com">Docker</a> following the instructions for <a href="https://docs.docker.com/linux/step_one/">Linux</a>, <a href="https://docs.docker.com/windows/step_one/">Windows</a>, or <a href="https://docs.docker.com/mac/step_one/">MacOS</a>.</li>
+<li>Install <a href="http://www.docker.com">Docker</a> following the instructions for <a href="https://docs.docker.com/linux/step_one/">Linux</a>, <a href="https://docs.docker.com/windows/step_one/">Windows</a>, or <a href="https://docs.docker.com/mac/step_one/">Mac OS</a>.</li>
 <li>Open a terminal or console.</li>
 <li>Type in <pre>docker run -t -i -p 9999:8080/tcp optimizationbenchmarking/evaluator-gui</pre> and hit return. This downloads and runs our software &mdash; which may take some time (but only the first time you do it).</li>
 <li>Browse to <a href="http://localhost:9999">http://localhost:9999</a>.</li>
