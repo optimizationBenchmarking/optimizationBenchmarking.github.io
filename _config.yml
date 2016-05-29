@@ -4,5 +4,5 @@ authorName: Thomas Weise
 authorEmail: tweise@ustc.edu.cn
 timezone: Asia/Shanghai
 encoding: utf-8
-guiVersion: 0.8.5
-cliVersion: 0.8.5
+guiVersion: 0.8.6
+cliVersion: 0.8.6

@@ -11,17 +11,22 @@ Our evaluator can help researchers to quickly, conveniently, and thoroughly anal
 
 The system is now "[dockerized](https://hub.docker.com/r/optimizationbenchmarking/evaluator-gui/)"!
 
-[Docker](http://www.docker.com/) is an application that allows you to define, publish, and run containers. Containers are something like lightweight VMs, they live as normal processes on the same kernel as the OS. Under Linux, you can install docker via
+[Docker](http://www.docker.com/) is an application that allows you to define, publish, and run containers. Containers are something like lightweight VMs, they live as normal processes on the same kernel as the OS under Linux and as small Virtual Box VMs under Windows and Mac OS. Docker can be installed following the guidelines below:
 
-    curl -fsSL https://get.docker.com/ | sh
+* for [Linux](https://docs.docker.com/linux/step_one/), you can run  `curl -fsSL https://get.docker.com/ | sh` on your command line and everything is done automatically (if you have `curl` installed, which is normally the case),
+* for [Windows](https://docs.docker.com/windows/step_one/)
+* for [Mac OS](https://docs.docker.com/mac/step_one/)
 
 After doing this, you can start our container via
 
-    docker run -t -d -p 80:8080/tcp optimizationbenchmarking/evaluator-gui
+    docker run -t -d -p 9999:8080/tcp optimizationbenchmarking/evaluator-gui
 
-The first time you run the program, this will download the software once (and only once). Once the container is started, you can access my program by opening your browser and visiting "`localhost`". The above line of code maps port 80 to my GUI, you can replace the "80" with another port, say `8080`, if you already have a web server running. You would then browse to this port, say "`localhost:8080`".
+The first time you run the program, this will download the software once (and only once). Once the container is started, you can access it with your browser at address
 
-The container contains a full installation of my system, including Tex Live, R with the required packages, and the right JDK. No further setup is needed. It is thus about 600 MB in size.
+- [http://localhost:9999](http://localhost:9999) under Linux or
+- `http://<dockerIP>:9999` under Windows and Mac OS, where `dockerIP` is the IP address of your Docker container. This address is displayed when you run the container. You can also obtain it with the command `docker-machine ip default`.
+
+The container contains a full installation of my system, including Tex Live, `R` with the required packages, and the right JDK. No further setup is needed. It is thus about 600 MB in size.
 
 [Here](https://hub.docker.com/r/optimizationbenchmarking/evaluator-gui/) and [here](https://github.com/optimizationBenchmarking/environments-evaluator-gui/blob/master/README.md) you can find the command line options explained. This will allow you to use our system efficiently.  
 

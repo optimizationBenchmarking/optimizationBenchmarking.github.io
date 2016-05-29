@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Optimization Benchmarking
+title: optimizationBenchmarking.org
 permalink: /
 ---
 
@@ -8,11 +8,13 @@ permalink: /
 This is the main website of the *optimizationBenchmarking.org* framework, a `Java 1.7` software designed to make the evaluation, benchmarking, and comparison of [optimization](http://en.wikipedia.org/wiki/Mathematical_optimization) or [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning) algorithms easier. This software  can load log files created by (experiments with) an optimization or Machine Learning algorithm implementation, evaluate how the implementation has progressed over time, and compare its performance to other algorithms (or implementations) -- over several different benchmark cases. It can create reports in [LaTeX](http://en.wikipedia.org/wiki/LaTeX) (ready for publication) or [XHTML](http://en.wikipedia.org/wiki/XHTML) formats or export its findings in text files which may later be loaded by other applications. A short set of introduction slides about this project can be found <a href="{{ site.baseurl }}/introSlides.html">here</a>.
 
 ## Quick Start
-If you want to directly run our software and see the examples, perform the following steps:
+If you want to directly run our software and see the examples, you can use its [dockerized version](https://hub.docker.com/r/optimizationbenchmarking/evaluator-gui/). Simply perform the following steps:
 
 1. Install [Docker](http://www.docker.com) following the instructions for [Linux](https://docs.docker.com/linux/step_one/), [Windows](https://docs.docker.com/windows/step_one/), or [MacOS](https://docs.docker.com/mac/step_one/).
 2. Open a terminal or console, type in <code class="highlighter-rouge" style="white-space:nowrap">docker&nbsp;run&nbsp;-t&nbsp;-i&nbsp;-p&nbsp;9999:8080/tcp&nbsp;optimizationbenchmarking/evaluator-gui</code> and hit return. This downloads and runs our software &mdash; which may take some time (but only the first time you do it). 
-4. Browse to [http://localhost:9999](http://localhost:9999).
+4. Browse to
+  - [http://localhost:9999](http://localhost:9999) under Linux
+  - `http://<dockerIP>:9999` under Windows and Mac OS, where `dockerIP` is the IP address of your Docker container. This address is displayed when you run the container. You can also obtain it with the command `docker-machine ip default`.
 5. Enjoy the web-based GUI of our software, which looks quite similar to this web site.
 
 ## Posts
