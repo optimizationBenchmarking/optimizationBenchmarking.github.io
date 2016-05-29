@@ -13,7 +13,7 @@ If you want to directly run our software and see the examples, you can use its [
 1. Install [Docker](http://www.docker.com) following the instructions for [Linux](https://docs.docker.com/linux/step_one/), [Windows](https://docs.docker.com/windows/step_one/), or [MacOS](https://docs.docker.com/mac/step_one/).
 2. Open a terminal or console, type in <code class="highlighter-rouge" style="white-space:nowrap">docker&nbsp;run&nbsp;-t&nbsp;-i&nbsp;-p&nbsp;9999:8080/tcp&nbsp;optimizationbenchmarking/evaluator-gui</code> and hit return. Only the first time you do that, it downloads our software. This may take some time, as the software is a 600 MB package. After the download, the software will start. 
 4. Browse to
-  - [http://localhost:9999](http://localhost:9999) under Linux
+  - [`http://localhost:9999`](http://localhost:9999) under Linux
   - `http://<dockerIP>:9999` under Windows and Mac OS, where `dockerIP` is the IP address of your Docker container. This address is displayed when you run the container. You can also obtain it with the command `docker-machine ip default`.
 5. Enjoy the web-based GUI of our software, which looks quite similar to this web site.
 
