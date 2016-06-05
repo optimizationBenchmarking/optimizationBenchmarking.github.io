@@ -17,7 +17,7 @@ The system is now "[dockerized](https://hub.docker.com/r/optimizationbenchmarkin
 * for [Windows](https://docs.docker.com/windows/step_one/)
 * for [Mac OS](https://docs.docker.com/mac/step_one/)
 
-After doing this, you can start our container via
+After doing this, you can start our container by typing the following command into a normal terminal (Linux), the *Docker Quickstart Terminal* (Mac OS), or the *Docker Toolbox Terminal* (Windows):
 
     docker run -t -d -p 9999:8080/tcp optimizationbenchmarking/evaluator-gui
 
