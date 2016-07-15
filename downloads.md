@@ -70,3 +70,10 @@ The first time you run the program, this will download the software once (and on
 The container contains a full installation of my system, including Tex Live, R with the required packages, and the right JDK. No further setup is needed. It is thus about 600 MB in size.
 
 [Here](https://hub.docker.com/r/optimizationbenchmarking/evaluator-gui/) and [here](https://github.com/optimizationBenchmarking/environments-evaluator-gui/blob/master/README.md) you can find the command line options explained. This will allow you to use our system efficiently.
+
+<h2>Documentation</h2>
+
+There are currently two slide sets with documentation about our system:
+
+- <a href="https://circleci.com/api/v1/project/optimizationBenchmarking/documentation-intro-slides/latest/artifacts/0/$CIRCLE_ARTIFACTS/intro-slides.pdf?branch=master">a general introduction</a>
+- <a href="https://circleci.com/api/v1/project/optimizationBenchmarking/documentation-technical-intro-slides/latest/artifacts/0/$CIRCLE_ARTIFACTS/intro-slides.pdf?branch=master">a technical introduction</a>
