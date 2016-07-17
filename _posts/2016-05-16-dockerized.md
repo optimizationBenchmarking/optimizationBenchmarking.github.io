@@ -26,7 +26,7 @@ The first time you run the program, this will download the software once (and on
 - [http://localhost:9999](http://localhost:9999) under Linux or
 - `http://<dockerIP>:9999` under Windows and Mac OS, where `dockerIP` is the IP address of your Docker container. This address is displayed when you run the container. You can also obtain it with the command `docker-machine ip default`.
 
-The container contains a full installation of my system, including Tex Live, `R` with the required packages, and the right JDK. No further setup is needed. It is thus about 600 MB in size.
+The container contains a full installation of my system, including the [`Java 8 OpenJDK`](http://openjdk.java.net/projects/jdk8/), [`TeX Live`](http://www.tug.org/texlive/), [`R`](https://www.r-project.org/), the needed `R` packages, and [`ghostscript`](http://ghostscript.com/). No further setup is needed. It is thus about 600 MB in size.
 
 [Here](https://hub.docker.com/r/optimizationbenchmarking/evaluator-gui/) and [here](https://github.com/optimizationBenchmarking/environments-evaluator-gui/blob/master/README.md) you can find the command line options explained. This will allow you to use our system efficiently.  
 
