@@ -6,10 +6,10 @@ categories: default
 
 <h1>Downloads &amp; Installation</h1>
 
-For using the software, you may first <a href="#down">download</a> it. The software requires a set of other tools, which you then should <a href="#inst">install</a> in order to get everything to work smoothly. Alternatively, if you are using Linux, you can also use the <a href="#docker">dockerized</a> version of the GUI. 
+For using the software, you may first <a href="#down">download</a> it. The software requires a set of other tools, which you then should <a href="#inst">install</a> in order to get everything to work smoothly. Alternatively, if you are using Linux, MacOS, or Windows (on a 64 bit system), you can also use the <a href="#docker">dockerized</a> version of the GUI. The latter is recommended, as it only requires you to install Docker and then you are ready to go! 
 
 <h2 id="down">Downloads</h2>
-The optimization benchmarking software comes in two flavors:
+The {{ site.projectNameStyled }} software Java `jar` Relases come in two flavors:
 
 <ol>
 <li><a href="https://github.com/optimizationBenchmarking/evaluator-gui/releases/download/{{ site.guiVersion }}/evaluatorGui.jar">evaluator/GUI</a> (Version: {{ site.guiVersion }})</li>
@@ -24,7 +24,7 @@ Both software come as stand-alone `jar`s and you can run them via `java -jar eva
 
 <h2 id="install">Installation</h2>
 
-The runtime environment for the *optimizationBenchmarking* framework requires a set a [Java JDK](https://en.wikipedia.org/wiki/Java_Development_Kit), a [LaTeX](https://en.wikipedia.org/wiki/LaTeX) installation, and [`R`](https://www.r-project.org/)  with a set of pre-installed packages.
+The runtime environment for the {{ site.projectNameStyled }} framework requires a set a [Java JDK](https://en.wikipedia.org/wiki/Java_Development_Kit), a [LaTeX](https://en.wikipedia.org/wiki/LaTeX) installation, and [`R`](https://www.r-project.org/)  with a set of pre-installed packages.
 
 I recommend:
 

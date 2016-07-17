@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inception of {{ site.projectName }} Web Page"
+title:  "Inception of optimizationBenchmarking Web Page"
 date:   2016-01-06
 categories: page
 ---
