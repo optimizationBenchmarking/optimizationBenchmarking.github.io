@@ -57,7 +57,7 @@ Under Linux, you may copy the following text to the command line (it may ask you
 
 <h2 id="docker">Dockerized Version: Only Install Docker, Nothing Else!</h2>
 
-The graphical user interface ([GUI](https://github.com/optimizationBenchmarking/evaluator-gui)) of our *optimizationBenchmarking* [evaluator](https://github.com/optimizationBenchmarking/evaluator-evaluator) has <a href="https://optimizationbenchmarking.github.io/page/2016/05/16/dockerized.html">now</a> been "[dockerized](https://hub.docker.com/r/optimizationbenchmarking/evaluator-gui/)"! [Docker](http://www.docker.com/) is an application that allows you to define, publish, and run containers. Containers are something like lightweight VMs, they live as normal processes on the same kernel as the OS. Under Linux, you can install docker via
+The graphical user interface ([GUI](https://github.com/optimizationBenchmarking/evaluator-gui)) of our {{ site.projectNameStyled }} [evaluator](https://github.com/optimizationBenchmarking/evaluator-evaluator) has <a href="{ site.baseurl }}/page/2016/05/16/dockerized.html">now</a> been "[dockerized](https://hub.docker.com/r/optimizationbenchmarking/evaluator-gui/)"! [Docker](http://www.docker.com/) is an application that allows you to define, publish, and run containers. Containers are something like lightweight VMs, they live as normal processes on the same kernel as the OS. Under Linux, you can install docker via
 
     curl -fsSL https://get.docker.com/ | sh
 
