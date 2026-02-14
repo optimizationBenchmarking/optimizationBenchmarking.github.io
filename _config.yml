@@ -1,11 +1,11 @@
 name: Optimization Benchmarking
 baseurl: https://optimizationbenchmarking.github.io
 authorName: Thomas Weise
-authorEmail: tweise@ustc.edu.cn
+authorEmail: tweise@hfuu.edu.cn
 timezone: Asia/Shanghai
 encoding: utf-8
 guiVersion: 0.8.7
 cliVersion: 0.8.7
-contactEmail: tweise@ustc.edu.cn
+contactEmail: tweise@hfuu.edu.cn
 projectName: optimizationBenchmarking.org
 projectNameStyled: <em>optimizationBenchmarking.org</em>
