@@ -31,6 +31,6 @@ The {{ site.projectNameStyled }} framework prescribes the following work flow:
 5. By interpreting the report and advanced statistics presented to you, you can get a deeper insight into your algorithm's performance as well as into the features and hardness of the benchmark instances you used. You can also directly use building blocks from the generated reports in your publications. 
 
 ## Posts
-% for post in site.posts %}
-- [{{ post.title }}]({{ site.baseurl }}/{{ post.url }}), {{ post.date -}}
+{% for post in site.posts %}
+- [{{ post.title }}]({{ site.baseurl }}/{{ post.url }}), {{ post.date }}
 {% endfor %} 
